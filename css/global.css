@@ -1,0 +1,65 @@
+/*BOOTSTRAP*/
+body{
+	font-family: robotto;
+	/*colocar imatge de fons*/
+	background-image: url("C:/MARC/Programacio/web proves/img/perdut3.jpg");
+	background-color: #90C961; /*color quan no apareix la imatge*/
+	background-position: top;
+	background-size: 100%;
+	background-repeat: no-repeat;
+	margin: 0px;
+	min-height:20px;
+	background-size:cover;
+	font-size: 90%;
+}
+h1{
+	background: rgba(144, 201, 97, 0.3); /*ultim numero correspon a opacitat*/
+	margin: 0px;
+	padding: 30px 0 20px 10%;
+	font-size: 40px;
+	border-style: none none solid none;
+	border-color: rgba(144, 201, 97, 0.4);
+	border-width: 2px;
+	background: linear-gradient(to right,rgba(162, 227, 109, 8.3),rgba(0,0,0,0));
+}
+nav ul{
+	display: inline;
+}
+.btn.btn-primary.dropdown-toggle{
+	background: linear-gradient(to right,rgba(162, 227, 109, 8.3),rgba(0,0,0,0));
+}
+.dropdown .dropdown-menu{
+	background-color: rgba(144, 201, 97, 0);
+	border-radius: 20%;
+}
+.dropdown-menu li{
+	background: rgba(162, 227, 109, 0.3);
+	padding: 1% 0 1% 0%;
+	border-style: none none solid none;
+	border-width: 2px;
+	border-color: rgba(144, 201, 97, 0.3);
+	margin: 2% 0% 0 0;
+	background: linear-gradient(to right,rgba(162, 227, 109, 8.3),rgba(0,0,0,0));
+	border-radius: 50% 0 0 50%;
+}
+.contingut{
+	font-family: arial;
+	background: #999;
+	padding: 2px 50% 2px 5%;
+}
+.contingut li{
+	margin: 3px;
+	list-style-type: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
