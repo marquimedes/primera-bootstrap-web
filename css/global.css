@@ -2,7 +2,7 @@
 body{
 	font-family: robotto;
 	/*colocar imatge de fons*/
-	background-image: url("../img/perdut3.jpg"); /*Bootstrap no llegeix els .. de la direccio del jpg*/
+	background-image: url("../img/perdut3.jpg");
 	background-color: #90C961; /*color quan no apareix la imatge*/
 	background-position: top;
 	background-size: 100%;
